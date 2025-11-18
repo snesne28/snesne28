@@ -4,7 +4,7 @@
   🎓 Information Science & Engineering student<br>
   💻 Passionate about Software Development, Artificial Intelligence & Data Analysis <br> 
   🚀 Constantly exploring new technologies and building meaningful projects <br>
-  🍱 Foodie | ✈️ Travel enthusiast | 📺 Sitcom addict 
+   
 </p>
 
 
